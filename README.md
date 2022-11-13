@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Hi 👋, I'm Jalel Barhoumi</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Tunisia</h3>
 
@@ -24,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalelbarhoumi&show_icons=true&locale=en" alt="jalelbarhoumi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalelbarhoumi&" alt="jalelbarhoumi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalelbarhoumi&" alt="jalelbarhoumi" /></p></center>
